@@ -1,0 +1,4 @@
+colorama
+click
+demucs
+tk
